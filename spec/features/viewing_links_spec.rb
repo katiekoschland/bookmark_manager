@@ -1,4 +1,4 @@
-require './app/models/link.rb'
+# require './app/models/link.rb'
 
 feature 'Viewing links' do
 
